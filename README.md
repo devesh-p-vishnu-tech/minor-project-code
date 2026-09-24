@@ -1,2 +1,2 @@
 # minor-project-code
-code used for Rover 
+code, pdf and image jefferry the Rover 
